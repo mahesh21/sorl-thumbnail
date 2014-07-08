@@ -47,7 +47,7 @@ THUMBNAIL_CACHE = 'default'
 THUMBNAIL_KEY_PREFIX = 'sorl-thumbnail'
 
 # Thumbnail filename prefix
-THUMBNAIL_PREFIX = 'cache/'
+THUMBNAIL_PREFIX = '/cache/'
 
 # Image format, common formats are: JPEG, PNG
 # Make sure the backend can handle the format you specify
